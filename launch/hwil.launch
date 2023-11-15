@@ -6,7 +6,7 @@
 		<remap from="/cmd_accel" to="/cmd_accel_pre"/>
 	</node>
 <!-- CBF params -->
-  <arg name="description" default="cbf_codegen_test"/>
+  <arg name="description" default="teamasacontroller"/>
 
 	<arg name="margin" default="30.0"/>
 	<arg name="use_margin" default="false"/>
